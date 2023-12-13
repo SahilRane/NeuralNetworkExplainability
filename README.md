@@ -2,7 +2,7 @@ This repository containe PyTorch code used for fine-tuning the vision transforme
 
 Code:
 <ul>
-  <li>requirements.txt: Contains a list of packages that can be installed in the virtual environment.</li>
+  <li>requirements.txt: Contains a list of packages that can be installed in the virtual environment using `pip install -r requirements.txt`.</li>
   <li>training.ipynb: Notebook that describes how to train ViT with HuggingFace, AlexNet and ResNet34.</li>
   <li>traincnn.py: Contains functions used to train AlexNet and ResNet34</li>
   <li>cnn-explain.ipynb: Notebook that demonstrates Grad-CAM explainability on the ResNet34 fine-tuned in training.ipynb</li>
@@ -11,7 +11,7 @@ Code:
 
 Directories:
 <ul>
-  <li>models: Contains saved model objects for ResNet34 and ViT fine-tuned on CIFAR-10.</li>
+  <li>models: Contains saved model objects for ResNet34 and ViT fine-tuned on CIFAR-10 that can be reloaded for use.</li>
   <li>Transformer-Explainability: Modified code from Hila Chefer implementing LRP</li>
 </ul>
 
