@@ -5,7 +5,7 @@ This repository containe PyTorch code used for fine-tuning the vision transforme
 
 Code:
 <ul>
-  <li>requirements.txt: Contains a list of packages that can be installed in the virtual environment using `pip install -r requirements.txt`.</li>
+  <li>requirements.txt: Contains a list of packages that can be installed in the virtual environment using pip install -r requirements.txt</li>
   <li>training.ipynb: Notebook that describes how to train ViT with HuggingFace, AlexNet and ResNet34.</li>
   <li>traincnn.py: Contains functions used to train AlexNet and ResNet34</li>
   <li>cnn-explain.ipynb: Notebook that demonstrates Grad-CAM explainability on the ResNet34 fine-tuned in training.ipynb</li>
