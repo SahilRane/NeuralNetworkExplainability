@@ -1,3 +1,6 @@
+## Explainable Transfer Learning for CNNs and Transformers
+Authors: Forrest Bicker, Sahil Rane, Rohan Subramanian
+
 This repository containe PyTorch code used for fine-tuning the vision transformer (ViT) and ResNet34 on the CIFAR-10 dataset, and applying GRAD-CAM (Class Activation Mapping) and LRP (Layer-wise relevance propagation) for explainability.
 
 Code:
@@ -15,3 +18,4 @@ Directories:
   <li>Transformer-Explainability: Modified code from Hila Chefer implementing LRP</li>
 </ul>
 
+This was part of our Neural Networks Final Project (CS152 at Harvey Mudd College).
