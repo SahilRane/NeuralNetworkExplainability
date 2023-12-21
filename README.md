@@ -18,4 +18,4 @@ Directories:
   <li>Transformer-Explainability: Modified code from Hila Chefer implementing LRP</li>
 </ul>
 
-This was part of our Neural Networks Final Project (CS152 at Harvey Mudd College).
+This was part of our Neural Networks Final Project (CS152 at Harvey Mudd College). You can read our full report <a href='https://drive.google.com/file/d/15AxenaI22AlVCDBbvRzUTZZjCiODMJ-u/view?usp=sharing'>here</a>!
